@@ -34,18 +34,21 @@ I'm a passionate data analyst with a background in programming and a strong foun
 
 I am currently working on a range of data analytics projects that showcase my ability to extract insights from various data sources. These projects demonstrate my skills in data cleaning, analysis, visualization, and interpretation, all essential for making data-driven decisions in a business context.
 
-### Featured Projects:
+### Featured Projects (Coming Soon):
 1. **Text Data Analysis from YouTube Comments Case Study**
    - **Description:** Analyzed a dataset of YouTube comments to extract insights about viewer sentiment, common themes, and engagement patterns. This project involved text preprocessing, sentiment analysis, and natural language processing (NLP) techniques to uncover valuable feedback trends, which can be crucial for content strategy and audience understanding.
    - **Key Skills:** Text analysis, Natural Language Processing (NLP), sentiment analysis, Python (Pandas, NLTK).
+   - **Status:** In progress. Expected completion by September 27th.
 
 2. **Time Series Project Based on S&P Stock Market Case Study**
    - **Description:** Conducted a time series analysis on the S&P stock market data to identify patterns, trends, and potential future movements. This project involved data cleaning, trend analysis, and forecasting using statistical methods to gain insights into stock market behaviors, supporting strategic decision-making for investments.
    - **Key Skills:** Time series analysis, forecasting, data visualization, Python (Pandas, Matplotlib), statistical analysis.
+   - **Status:** In progress. Expected completion by September 27th.
 
 3. **Sales Data Analysis from an E-commerce Case Study**
    - **Description:** Analyzed a large dataset of e-commerce sales to identify customer purchasing behavior, sales trends, and factors influencing revenue. This project utilized data cleaning, exploratory data analysis, and visualization to uncover actionable insights, such as peak sales periods and high-performing products, helping businesses optimize their sales strategies.
    - **Key Skills:** Data cleaning, exploratory data analysis (EDA), sales trend analysis, Python (Pandas, Matplotlib), data visualization.
+   - **Status:** In progress. Expected completion by September 27th.
 
 ## 🚀 Let's Connect
 I'm actively seeking a data analyst role where I can apply my skills and continue growing as a data professional. Feel free to reach out if you'd like to collaborate on a project, discuss data analytics, or learn more about my work.
