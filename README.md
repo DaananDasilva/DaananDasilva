@@ -34,8 +34,8 @@ I'm a passionate data analyst with a background in programming and a strong foun
 
 I am currently working on a range of data analytics projects that showcase my ability to extract insights from various data sources. These projects demonstrate my skills in data cleaning, analysis, visualization, and interpretation, all essential for making data-driven decisions in a business context.
 
-### Featured Projects (Coming Soon):
-1. **Text Data Analysis from YouTube Comments Case Study**
+### Featured Projects:
+1. **[Text Data Analysis from YouTube Comments Case Study](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**
    - **Description:** Analyzed a dataset of YouTube comments to extract insights about viewer sentiment, common themes, and engagement patterns. This project involved text preprocessing, sentiment analysis, and natural language processing (NLP) techniques to uncover valuable feedback trends, which can be crucial for content strategy and audience understanding.
    - **Key Skills:** Text analysis, Natural Language Processing (NLP), sentiment analysis, Python (Pandas, NLTK).
    - **Status:** In progress. Expected completion by September 27th.
