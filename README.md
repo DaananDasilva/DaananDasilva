@@ -35,17 +35,24 @@ I'm a passionate data analyst with a background in programming and a strong foun
 I am currently working on a range of data analytics projects that showcase my ability to extract insights from various data sources. These projects demonstrate my skills in data cleaning, analysis, visualization, and interpretation, all essential for making data-driven decisions in a business context.
 
 ### Featured Projects:
-1. **[Text Data Analysis from YouTube Comments Case Study](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**
+
+-- $$$$$$$$$$$$$$$$$$$$$$$$$$$
+1. **[Banking Customer Churn Prediction](#)**  
+   - **Description:** Analyzed a banking dataset to understand the factors influencing customer churn and identify behavioral patterns differentiating churned customers from loyal ones. This project involved extensive exploratory data analysis (EDA), segmentation, and correlation analysis. Key insights were derived on the impact of demographics, product engagement, and activity levels on churn rates. The analysis provided actionable recommendations for customer retention, such as targeting high-balance customers and improving service quality in high-risk regions.
+   - **Key Skills:** Exploratory Data Analysis (EDA), statistical analysis, data visualization, Python (Pandas, Seaborn, Matplotlib), Chi-square tests, correlation analysis.
+   - **Status:** Completed.
+
+2. **[Text Data Analysis from YouTube Comments Case Study](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**
    - **Description:** Analyzed a dataset of YouTube comments to extract insights about viewer sentiment, common themes, and engagement patterns. This project involved text preprocessing, sentiment analysis, and natural language processing (NLP) techniques to uncover valuable feedback trends, which can be crucial for content strategy and audience understanding.
    - **Key Skills:** Text analysis, Natural Language Processing (NLP), sentiment analysis, Python (Pandas, NLTK).
-   - **Status:** In progress.
+   - **Status:** Completed.
 
-2. **Time Series Project Based on S&P Stock Market Case Study (Coming Soon)**
+3. **Time Series Project Based on S&P Stock Market Case Study (Coming Soon)**
    - **Description:** Conducted a time series analysis on the S&P stock market data to identify patterns, trends, and potential future movements. This project involved data cleaning, trend analysis, and forecasting using statistical methods to gain insights into stock market behaviors, supporting strategic decision-making for investments.
    - **Key Skills:** Time series analysis, forecasting, data visualization, Python (Pandas, Matplotlib), statistical analysis.
    - **Status:** In progress. Expected completion by September 27th.
 
-3. **Sales Data Analysis from an E-commerce Case Study (Coming Soon)**
+4. **Sales Data Analysis from an E-commerce Case Study (Coming Soon)**
    - **Description:** Analyzed a large dataset of e-commerce sales to identify customer purchasing behavior, sales trends, and factors influencing revenue. This project utilized data cleaning, exploratory data analysis, and visualization to uncover actionable insights, such as peak sales periods and high-performing products, helping businesses optimize their sales strategies.
    - **Key Skills:** Data cleaning, exploratory data analysis (EDA), sales trend analysis, Python (Pandas, Matplotlib), data visualization.
    - **Status:** In progress. Expected completion by September 27th.
