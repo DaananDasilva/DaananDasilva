@@ -36,8 +36,7 @@ I am currently working on a range of data analytics projects that showcase my ab
 
 ### Featured Projects:
 
--- $$$$$$$$$$$$$$$$$$$$$$$$$$$
-1. **[Banking Customer Churn Prediction](#)**  
+1. **[Banking Customer Churn Prediction](https://github.com/DaananDasilva/Banking-Customer-Churn-Prediction)**  
    - **Description:** Analyzed a banking dataset to understand the factors influencing customer churn and identify behavioral patterns differentiating churned customers from loyal ones. This project involved extensive exploratory data analysis (EDA), segmentation, and correlation analysis. Key insights were derived on the impact of demographics, product engagement, and activity levels on churn rates. The analysis provided actionable recommendations for customer retention, such as targeting high-balance customers and improving service quality in high-risk regions.
    - **Key Skills:** Exploratory Data Analysis (EDA), statistical analysis, data visualization, Python (Pandas, Seaborn, Matplotlib), Chi-square tests, correlation analysis.
    - **Status:** Completed.
