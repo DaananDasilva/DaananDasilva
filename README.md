@@ -49,12 +49,7 @@ I am currently working on a range of data analytics projects that showcase my ab
 3. **Time Series Project Based on S&P Stock Market Case Study (Coming Soon)**
    - **Description:** Conducted a time series analysis on the S&P stock market data to identify patterns, trends, and potential future movements. This project involved data cleaning, trend analysis, and forecasting using statistical methods to gain insights into stock market behaviors, supporting strategic decision-making for investments.
    - **Key Skills:** Time series analysis, forecasting, data visualization, Python (Pandas, Matplotlib), statistical analysis.
-   - **Status:** In progress. Expected completion by September 27th.
-
-4. **Sales Data Analysis from an E-commerce Case Study (Coming Soon)**
-   - **Description:** Analyzed a large dataset of e-commerce sales to identify customer purchasing behavior, sales trends, and factors influencing revenue. This project utilized data cleaning, exploratory data analysis, and visualization to uncover actionable insights, such as peak sales periods and high-performing products, helping businesses optimize their sales strategies.
-   - **Key Skills:** Data cleaning, exploratory data analysis (EDA), sales trend analysis, Python (Pandas, Matplotlib), data visualization.
-   - **Status:** In progress. Expected completion by September 27th.
+   - **Status:** In progress. Expected completion by October 4th.
 
 ## 🚀 Let's Connect
 I'm actively seeking a data analyst role where I can apply my skills and continue growing as a data professional. Feel free to reach out if you'd like to collaborate on a project, discuss data analytics, or learn more about my work.
