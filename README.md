@@ -1,53 +1,73 @@
 # 👋 Hello, I'm Daanan Dasilva
 
-I'm a passionate data analyst with a background in programming and a strong foundation in data analysis. I thrive on transforming complex data into actionable insights and am continuously exploring new ways to leverage data for better decision-making.
+I’m a data analyst in training, currently pursuing a **Graduate Certificate in Data Analytics** at Humber College (Expected Aug 2025) and preparing for my **Entry Certification for Business Analyst (ECBA)** from IIBA. With a foundation in programming and a passion for transforming data into actionable insights, I’m honing my expertise in data analysis, business intelligence, and decision-making to drive impactful solutions.
+
+---
 
 ## 🛠 Skills & Tools
-- **Programming Languages:** Java, Python, JavaScript, HTML, CSS
-- **Data Analysis:** SQL, Python (Pandas, NumPy, Matplotlib), Google Sheets
-- **Data Visualization:** Tableau
-- **AI & Automation:** Leveraging AI tools to enhance workflows and optimize data processes
-- **Web Technologies:** Basic understanding of web development using HTML, CSS, JavaScript
 
-## 🎓 Certifications
-- **Google Data Analyst Certification (Coursera):** Comprehensive training in data analysis, including data cleaning, visualization, and storytelling using real-world datasets.
+- **Programming**: Python, SQL, Java  
+- **Data Analysis**: Pandas, NumPy, Matplotlib, Google Sheets  
+- **Data Visualization**: Tableau, Seaborn  
+- **Business Analysis**: Requirements gathering, stakeholder analysis (ECBA prep)  
+- **AI & Automation**: Leveraging AI tools to streamline data workflows  
 
-## 📘 Current Active Learning
-- **Business Analyst Course (In Progress):** Expanding my knowledge to include business analysis skills, focusing on understanding business needs and translating them into data-driven solutions.
-- **Upcoming Course:** **Google Business Intelligence Certificate (Coursera):** Planning to enhance my expertise in data modeling, data visualization, and storytelling.
+This skillset reflects my focus on data analytics and business analysis, prioritizing tools and techniques most relevant to my current projects and career aspirations.
 
-## 📚 Reading List
+---
 
-### Currently Reading
-1. **BABOK Version 3** (IIBA)
-   - An essential resource for mastering business analysis practices. This guide provides insights into identifying and analyzing business requirements, a crucial skill for data analysts working to turn data into actionable business insights.
-2. **Storytelling with Data** by Cole Nussbaumer Knaflic
-   - Focused on the art of data visualization, this book teaches how to present data findings effectively. As a data analyst, conveying insights through clear, impactful visual storytelling is key to driving data-driven decision-making.
+## 🎓 Education & Certifications
 
-### Future Reads
-1. **Data Science for Business** by Foster Provost and Tom Fawcett
-   - This book provides a deep dive into the principles of data science, with a strong focus on its application in business. For a data analyst, understanding how to apply data analysis techniques to solve real-world business problems is invaluable.
-2. **The Data Warehouse Toolkit** by Ralph Kimball and Margy Ross
-   - A comprehensive guide to data warehousing, crucial for data analysts dealing with large datasets. This book covers data modeling and business intelligence, equipping analysts with the skills to manage and interpret complex data effectively.
+- **Graduate Certificate in Data Analytics**  
+  *Humber College, Expected Aug 2025*  
+  A comprehensive program covering data analysis, visualization, and business intelligence.  
+- **Entry Certification for Business Analyst (ECBA)**  
+  *IIBA, In Progress*  
+  Mastering foundational business analysis skills, including requirements analysis and stakeholder collaboration.  
+- **Google Data Analyst Certification**  
+  *Coursera, Completed*  
+  Training in data cleaning, visualization, and storytelling with real-world datasets.  
 
-## 📊 Data Analytics Projects
+These credentials showcase my active pursuit of advanced knowledge and industry-recognized qualifications.
 
-I am currently working on a range of data analytics projects that showcase my ability to extract insights from various data sources. These projects demonstrate my skills in data cleaning, analysis, visualization, and interpretation, all essential for making data-driven decisions in a business context.
+---
 
-### Featured Projects:
+## 📚 Currently Reading
+
+- **BABOK Version 3** (IIBA)  
+  A core resource for ECBA prep, deepening my understanding of business analysis frameworks and practices.  
+- **Storytelling with Data** by Cole Nussbaumer Knaflic  
+  Learning to craft compelling data visualizations that communicate insights effectively.  
+
+These books align with my goals of blending technical data skills with business-focused storytelling.
+
+---
+
+## 📊 Featured Projects
+
+My projects demonstrate my ability to analyze data, uncover insights, and provide actionable recommendations. Here are the highlights:
 
 1. **[Banking Customer Churn Prediction](https://github.com/DaananDasilva/Banking-Customer-Churn-Prediction)**  
-   - **Description:** Analyzed a banking dataset to understand the factors influencing customer churn and identify behavioral patterns differentiating churned customers from loyal ones. This project involved extensive exploratory data analysis (EDA), segmentation, and correlation analysis. Key insights were derived on the impact of demographics, product engagement, and activity levels on churn rates. The analysis provided actionable recommendations for customer retention, such as targeting high-balance customers and improving service quality in high-risk regions.
-   - **Key Skills:** Exploratory Data Analysis (EDA), statistical analysis, data visualization, Python (Pandas, Seaborn, Matplotlib), Chi-square tests, correlation analysis.
-   - **Status:** Completed.
+   - **Description**: Analyzed customer churn at a financial institution using exploratory data analysis (EDA), statistical tests, and visualizations. Identified key factors like age, account balance, and product engagement driving churn, and delivered retention strategies such as targeting high-balance customers and enhancing product offerings.  
+   - **Key Skills**: EDA, Python (Pandas, Seaborn, Matplotlib), Chi-square tests, correlation analysis.  
+   - **Status**: Completed.  
 
-2. **[Text Data Analysis from YouTube Comments Case Study](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**
-   - **Description:** Analyzed a dataset of YouTube comments to extract insights about viewer sentiment, common themes, and engagement patterns. This project involved text preprocessing, sentiment analysis, and natural language processing (NLP) techniques to uncover valuable feedback trends, which can be crucial for content strategy and audience understanding.
-   - **Key Skills:** Text analysis, Natural Language Processing (NLP), sentiment analysis, Python (Pandas, NLTK).
-   - **Status:** Completed.
+2. **[YouTube Sentiment Analysis](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**  
+   - **Description**: Investigated YouTube comments to assess sentiment, emoji usage, and engagement trends across video categories. Used NLP and visualizations to reveal positive feedback in Music and Entertainment categories, offering insights for content optimization.  
+   - **Key Skills**: NLP, sentiment analysis, Python (Pandas, NLTK), data visualization.  
+   - **Status**: Completed.  
+
+3. **[Twitter Data Analysis for Airlines](https://github.com/DaananDasilva/Twitter-Airlines-Analysis)**
+   - **Description**: Classified tweet sentiment and extracted complaint themes for Delta Airlines using Python and Latent Dirichlet Allocation (LDA). Provided insights into customer pain points to inform service improvements.  
+   - **Key Skills**: Text analysis, topic modeling, Python, data visualization.  
+   - **Status**: Completed.  
+
+These projects highlight my technical skills and ability to translate data into business value.
+
+---
 
 ## 🚀 Let's Connect
-I'm actively seeking a data analyst role where I can apply my skills and continue growing as a data professional. Feel free to reach out if you'd like to collaborate on a project, discuss data analytics, or learn more about my work.
+I'm actively seeking a data analyst role where I can apply my skills and continue growing as a data professional. Let’s connect to discuss opportunities, collaborate on projects, or explore how I can add value to your team!
 
 - **Email:** daanandasilva@gmail.com
 - **LinkedIn:** [LinkedIn Daanan Dasilva](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BGVfTyPRlTMiaD6BMI3BEdQ%3D%3D)
