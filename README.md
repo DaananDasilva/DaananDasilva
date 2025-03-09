@@ -47,20 +47,22 @@ These books align with my goals of blending technical data skills with business-
 
 My projects demonstrate my ability to analyze data, uncover insights, and provide actionable recommendations. Here are the highlights:
 
-1. **[Banking Customer Churn Prediction](https://github.com/DaananDasilva/Banking-Customer-Churn-Prediction)**  
+1. **[Twitter Data Analysis for Airlines](https://github.com/DaananDasilva/Twitter-Airlines-Analysis)**
+   - **Description**: Classified tweet sentiment and extracted complaint themes for Delta Airlines using Python and Latent Dirichlet Allocation (LDA). Provided insights into customer pain points to inform service improvements.  
+   - **Key Skills**: Text analysis, topic modeling, Python, data visualization.  
+   - **Status**: Completed.  
+
+2. **[Banking Customer Churn Prediction](https://github.com/DaananDasilva/Banking-Customer-Churn-Prediction)**  
    - **Description**: Analyzed customer churn at a financial institution using exploratory data analysis (EDA), statistical tests, and visualizations. Identified key factors like age, account balance, and product engagement driving churn, and delivered retention strategies such as targeting high-balance customers and enhancing product offerings.  
    - **Key Skills**: EDA, Python (Pandas, Seaborn, Matplotlib), Chi-square tests, correlation analysis.  
    - **Status**: Completed.  
 
-2. **[YouTube Sentiment Analysis](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**  
+3. **[YouTube Sentiment Analysis](https://github.com/DaananDasilva/YouTube-Sentiment-Analysis)**  
    - **Description**: Investigated YouTube comments to assess sentiment, emoji usage, and engagement trends across video categories. Used NLP and visualizations to reveal positive feedback in Music and Entertainment categories, offering insights for content optimization.  
    - **Key Skills**: NLP, sentiment analysis, Python (Pandas, NLTK), data visualization.  
    - **Status**: Completed.  
 
-3. **[Twitter Data Analysis for Airlines](https://github.com/DaananDasilva/Twitter-Airlines-Analysis)**
-   - **Description**: Classified tweet sentiment and extracted complaint themes for Delta Airlines using Python and Latent Dirichlet Allocation (LDA). Provided insights into customer pain points to inform service improvements.  
-   - **Key Skills**: Text analysis, topic modeling, Python, data visualization.  
-   - **Status**: Completed.  
+
 
 These projects highlight my technical skills and ability to translate data into business value.
 
